@@ -1,6 +1,7 @@
 # Wacky Flip - The Ultimate Physics-Based Parkour Flipping Challenge
 
-![Wacky Flip Banner](https://www.wackyflip.pro/_next/image?url=%2Fimages%2Fhot_game%2Fwacky-flip.png&w=1920&q=75)
+![Wacky Flip Banner](https://github.com/user-attachments/assets/abe90ccd-17c4-4ed1-8e40-224a33c08fcd)
+
 
 ## Introduction to Wacky Flip
 
